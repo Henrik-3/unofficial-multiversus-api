@@ -6,8 +6,6 @@ Unofficial Valorant API by using the Ingame API
 
 # Authentication and Rate Limits
 All rate limits are the same for every endpoint, so in general you have 90 requests every minute. If you exceed rate limit you will get following JSON with 429 Status Code:
-
-If you exceed rate limit you will get following JSON with 429 Status Code:
 ```json
 {
   "status": 429,
@@ -32,7 +30,6 @@ Rate Limits:
 - Production Key:
     - Rate Limit you requested
     - Suitable for: Production Discord Bots | Websites
-    - PLEASE MAKE SURE THAT YOU ALSO REQUEST AN OFFICIAL VALORANT API KEY AT RIOT TO GET RSO IF YOU HAVE A STATS FEATURE FOR EXAMPLE
     
 # Error codes
 Here are the error codes for the MultiVersus API that could come up. There will always be a more detailed explanation in the `details` field.
@@ -41,6 +38,7 @@ Here are the error codes for the MultiVersus API that could come up. There will 
 | 1 | Invalid API Key |
 | 2 | Forbidden endpoint |
 | 3 | Restricted endpoint |
+| 201 | Invalid gamemode |
 
 # Status 403 - Forbidden
 If you receive this status code, please ping me on the support discord or contact me over my mail or discord that are linked on the bottom of this page.
