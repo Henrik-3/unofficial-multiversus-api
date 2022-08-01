@@ -1,0 +1,505 @@
+{
+    "status": 200,
+    "data": [
+        {
+            "id": "621a49fff2824e97d972e719",
+            "username": "KoboldHeart",
+            "created_at": 1645890047,
+            "rank": 1,
+            "gamemodes": {
+                "1v1": {
+                    "wins": 96,
+                    "win_streak": 7,
+                    "longest_win_streak": 31,
+                    "losses": 16
+                },
+                "2v2": {
+                    "wins": 1393,
+                    "win_streak": 14,
+                    "longest_win_streak": 91,
+                    "losses": 223
+                }
+            }
+        },
+        {
+            "id": "62192d8bbcb5325d8728c9e8",
+            "username": "gsmVoiD",
+            "created_at": 1645817227,
+            "rank": 2,
+            "gamemodes": {
+                "1v1": {
+                    "wins": 527,
+                    "win_streak": 2,
+                    "longest_win_streak": 52,
+                    "losses": 71
+                },
+                "2v2": {
+                    "wins": 2195,
+                    "win_streak": 0,
+                    "longest_win_streak": 147,
+                    "losses": 296
+                }
+            }
+        },
+        {
+            "id": "628289ef3482dbcfdba47714",
+            "username": "gdsandstorm",
+            "created_at": 1652722159,
+            "rank": 3,
+            "gamemodes": {
+                "1v1": {
+                    "wins": 1022,
+                    "win_streak": 0,
+                    "longest_win_streak": 62,
+                    "losses": 275
+                },
+                "2v2": {
+                    "wins": 880,
+                    "win_streak": 10,
+                    "longest_win_streak": 77,
+                    "losses": 149
+                }
+            }
+        },
+        {
+            "id": "6286cadfd701bab5dcb50afb",
+            "username": "Fluffypandaboy11",
+            "created_at": 1653000927,
+            "rank": 4,
+            "gamemodes": {
+                "1v1": {
+                    "wins": 73,
+                    "win_streak": 3,
+                    "longest_win_streak": 16,
+                    "losses": 35
+                },
+                "2v2": {
+                    "wins": 748,
+                    "win_streak": 11,
+                    "longest_win_streak": 38,
+                    "losses": 192
+                }
+            }
+        },
+        {
+            "id": "621e7ba70e4d8f8dfd41676a",
+            "username": "Mariostare",
+            "created_at": 1646164903,
+            "rank": 5,
+            "gamemodes": {
+                "1v1": {
+                    "wins": 277,
+                    "win_streak": 5,
+                    "longest_win_streak": 18,
+                    "losses": 113
+                },
+                "2v2": {
+                    "wins": 1057,
+                    "win_streak": 3,
+                    "longest_win_streak": 57,
+                    "losses": 264
+                }
+            }
+        },
+        {
+            "id": "622231e8a7bd66d7e8682c88",
+            "username": "TheKingDank",
+            "created_at": 1646408168,
+            "rank": 6,
+            "gamemodes": {
+                "1v1": {
+                    "wins": 321,
+                    "win_streak": 3,
+                    "longest_win_streak": 11,
+                    "losses": 215
+                },
+                "2v2": {
+                    "wins": 1287,
+                    "win_streak": 20,
+                    "longest_win_streak": 27,
+                    "losses": 498
+                }
+            }
+        },
+        {
+            "id": "62d6f8f920e49be7927dd709",
+            "username": "KiteTheCyborg",
+            "created_at": 1658255609,
+            "rank": 7,
+            "gamemodes": {
+                "1v1": {
+                    "wins": 49,
+                    "win_streak": 7,
+                    "longest_win_streak": 33,
+                    "losses": 4
+                },
+                "2v2": {
+                    "wins": 404,
+                    "win_streak": 3,
+                    "longest_win_streak": 25,
+                    "losses": 178
+                }
+            }
+        },
+        {
+            "id": "62190af5bcb5325d8728acfe",
+            "username": "Zage",
+            "created_at": 1645808373,
+            "rank": 8,
+            "gamemodes": {
+                "1v1": {
+                    "wins": 813,
+                    "win_streak": 1,
+                    "longest_win_streak": 71,
+                    "losses": 244
+                },
+                "2v2": {
+                    "wins": 1089,
+                    "win_streak": 18,
+                    "longest_win_streak": 56,
+                    "losses": 608
+                }
+            }
+        },
+        {
+            "id": "62d6d7acfa5f9f0a5d741f06",
+            "username": "Calvonta",
+            "created_at": 1658247084,
+            "rank": 9,
+            "gamemodes": {
+                "1v1": {
+                    "wins": 37,
+                    "win_streak": 1,
+                    "longest_win_streak": 9,
+                    "losses": 12
+                },
+                "2v2": {
+                    "wins": 488,
+                    "win_streak": 6,
+                    "longest_win_streak": 23,
+                    "losses": 141
+                }
+            }
+        },
+        {
+            "id": "621d3eb3d388cbaeecb0eb9e",
+            "username": "mirrorman",
+            "created_at": 1646083763,
+            "rank": 10,
+            "gamemodes": {
+                "1v1": {
+                    "wins": 904,
+                    "win_streak": 0,
+                    "longest_win_streak": 53,
+                    "losses": 217
+                },
+                "2v2": {
+                    "wins": 1200,
+                    "win_streak": 16,
+                    "longest_win_streak": 66,
+                    "losses": 226
+                }
+            }
+        },
+        {
+            "id": "628677a4e904cb90e7154177",
+            "username": "Urbador",
+            "created_at": 1652979620,
+            "rank": 11,
+            "gamemodes": {
+                "1v1": {
+                    "wins": 744,
+                    "win_streak": 7,
+                    "longest_win_streak": 29,
+                    "losses": 137
+                },
+                "2v2": {
+                    "wins": 527,
+                    "win_streak": 24,
+                    "longest_win_streak": 41,
+                    "losses": 97
+                }
+            }
+        },
+        {
+            "id": "628c4a4e1383e0182618df8e",
+            "username": "Peteru",
+            "created_at": 1653361230,
+            "rank": 12,
+            "gamemodes": {
+                "1v1": {
+                    "wins": 537,
+                    "win_streak": 0,
+                    "longest_win_streak": 64,
+                    "losses": 51
+                },
+                "2v2": {
+                    "wins": 648,
+                    "win_streak": 3,
+                    "longest_win_streak": 30,
+                    "losses": 158
+                }
+            }
+        },
+        {
+            "id": "621d65ed35dbce3f5434f1c4",
+            "username": "Blaizzy",
+            "created_at": 1646093805,
+            "rank": 13,
+            "gamemodes": {
+                "1v1": {
+                    "wins": 323,
+                    "win_streak": 5,
+                    "longest_win_streak": 25,
+                    "losses": 80
+                },
+                "2v2": {
+                    "wins": 1017,
+                    "win_streak": 13,
+                    "longest_win_streak": 36,
+                    "losses": 291
+                }
+            }
+        },
+        {
+            "id": "628b040c70bb05c373cf3353",
+            "username": "Oppp",
+            "created_at": 1653277708,
+            "rank": 14,
+            "gamemodes": {
+                "1v1": {
+                    "wins": 223,
+                    "win_streak": 10,
+                    "longest_win_streak": 36,
+                    "losses": 62
+                },
+                "2v2": {
+                    "wins": 439,
+                    "win_streak": 8,
+                    "longest_win_streak": 47,
+                    "losses": 150
+                }
+            }
+        },
+        {
+            "id": "6289771868e85023723cff6f",
+            "username": "sheeker",
+            "created_at": 1653176088,
+            "rank": 15,
+            "gamemodes": {
+                "1v1": {
+                    "wins": 40,
+                    "win_streak": 0,
+                    "longest_win_streak": 12,
+                    "losses": 37
+                },
+                "2v2": {
+                    "wins": 990,
+                    "win_streak": 5,
+                    "longest_win_streak": 29,
+                    "losses": 349
+                }
+            }
+        },
+        {
+            "id": "62879784634123633abfaeb7",
+            "username": "Trabje",
+            "created_at": 1653053316,
+            "rank": 16,
+            "gamemodes": {
+                "1v1": {
+                    "wins": 479,
+                    "win_streak": 5,
+                    "longest_win_streak": 37,
+                    "losses": 131
+                },
+                "2v2": {
+                    "wins": 628,
+                    "win_streak": 1,
+                    "longest_win_streak": 96,
+                    "losses": 145
+                }
+            }
+        },
+        {
+            "id": "621ab3b9a2927099758fc3d7",
+            "username": "Synume",
+            "created_at": 1645917113,
+            "rank": 17,
+            "gamemodes": {
+                "1v1": {
+                    "wins": 903,
+                    "win_streak": 0,
+                    "longest_win_streak": 31,
+                    "losses": 268
+                },
+                "2v2": {
+                    "wins": 1256,
+                    "win_streak": 2,
+                    "longest_win_streak": 90,
+                    "losses": 393
+                }
+            }
+        },
+        {
+            "id": "62e1998d2ef913a97563f81f",
+            "username": "RRick",
+            "created_at": 1658952077,
+            "rank": 18,
+            "gamemodes": {
+                "1v1": {
+                    "wins": 21,
+                    "win_streak": 11,
+                    "longest_win_streak": 11,
+                    "losses": 4
+                },
+                "2v2": {
+                    "wins": 220,
+                    "win_streak": 12,
+                    "longest_win_streak": 31,
+                    "losses": 31
+                }
+            }
+        },
+        {
+            "id": "6286888d9722e17bb2d2a339",
+            "username": "Coolmchugh",
+            "created_at": 1652983949,
+            "rank": 19,
+            "gamemodes": {
+                "1v1": {
+                    "wins": 274,
+                    "win_streak": 3,
+                    "longest_win_streak": 22,
+                    "losses": 112
+                },
+                "2v2": {
+                    "wins": 782,
+                    "win_streak": 1,
+                    "longest_win_streak": 27,
+                    "losses": 312
+                }
+            }
+        },
+        {
+            "id": "6286cde7ae9e5bc02f15a706",
+            "username": "HM02",
+            "created_at": 1653001703,
+            "rank": 20,
+            "gamemodes": {
+                "1v1": {
+                    "wins": 290,
+                    "win_streak": 0,
+                    "longest_win_streak": 18,
+                    "losses": 155
+                },
+                "2v2": {
+                    "wins": 566,
+                    "win_streak": 2,
+                    "longest_win_streak": 29,
+                    "losses": 152
+                }
+            }
+        },
+        {
+            "id": "62d73bbcbf072b35dac370de",
+            "username": "HOP3",
+            "created_at": 1658272700,
+            "rank": 21,
+            "gamemodes": {
+                "1v1": {
+                    "wins": 18,
+                    "win_streak": 0,
+                    "longest_win_streak": 10,
+                    "losses": 8
+                },
+                "2v2": {
+                    "wins": 526,
+                    "win_streak": 11,
+                    "longest_win_streak": 61,
+                    "losses": 166
+                }
+            }
+        },
+        {
+            "id": "6286651d6f9b697b9bc96dc8",
+            "username": "Cowfish",
+            "created_at": 1652974877,
+            "rank": 22,
+            "gamemodes": {
+                "1v1": {
+                    "wins": 407,
+                    "win_streak": 1,
+                    "longest_win_streak": 31,
+                    "losses": 141
+                },
+                "2v2": {
+                    "wins": 1612,
+                    "win_streak": 9,
+                    "longest_win_streak": 156,
+                    "losses": 176
+                }
+            }
+        },
+        {
+            "id": "6286a0c3b6fcd5ffdc3bea48",
+            "username": "Zacoi",
+            "created_at": 1652990147,
+            "rank": 23,
+            "gamemodes": {
+                "1v1": {
+                    "wins": 260,
+                    "win_streak": 2,
+                    "longest_win_streak": 12,
+                    "losses": 143
+                },
+                "2v2": {
+                    "wins": 774,
+                    "win_streak": 37,
+                    "longest_win_streak": 46,
+                    "losses": 185
+                }
+            }
+        },
+        {
+            "id": "62d7ac93eafe7143bfbcb483",
+            "username": "CrabBirdMorning127",
+            "created_at": 1658301587,
+            "rank": 24,
+            "gamemodes": {
+                "1v1": {
+                    "wins": 5,
+                    "win_streak": 0,
+                    "longest_win_streak": 3,
+                    "losses": 3
+                },
+                "2v2": {
+                    "wins": 444,
+                    "win_streak": 2,
+                    "longest_win_streak": 25,
+                    "losses": 134
+                }
+            }
+        },
+        {
+            "id": "621e88aa29efc737643612c1",
+            "username": "Jungle",
+            "created_at": 1646168234,
+            "rank": 25,
+            "gamemodes": {
+                "1v1": {
+                    "wins": 389,
+                    "win_streak": 2,
+                    "longest_win_streak": 15,
+                    "losses": 239
+                },
+                "2v2": {
+                    "wins": 1663,
+                    "win_streak": 1,
+                    "longest_win_streak": 71,
+                    "losses": 444
+                }
+            }
+        }
+    ]
+}
