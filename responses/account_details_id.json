@@ -1,0 +1,52 @@
+{
+    "status": 200,
+    "data": {
+        "id": "62e1adf9bbba745989bedfde",
+        "username": "HenrikZ3",
+        "created_at": 1658957305,
+        "level": 9,
+        "xp": 290,
+        "online": false,
+        "characters": [
+            {
+                "agent": "Superman",
+                "xp": 2,
+                "level": 9,
+                "wins": 11
+            },
+            {
+                "agent": "Wonder Woman",
+                "xp": 126,
+                "level": 5,
+                "wins": 5
+            }
+        ],
+        "stats": {
+            "highest_damage_dealt": 292,
+            "assists": 9,
+            "ringouts": {
+                "total": 24,
+                "single_ringouts": 24,
+                "double_ringouts": 0
+            },
+            "wins": 16,
+            "dodged_attacks": 13,
+            "damage": 4855,
+            "matches": 23
+        },
+        "gamemodes": {
+            "1v1": {
+                "wins": 0,
+                "win_streak": 0,
+                "longest_win_streak": 0,
+                "losses": 0
+            },
+            "2v2": {
+                "wins": 16,
+                "win_streak": 0,
+                "longest_win_streak": 9,
+                "losses": 7
+            }
+        }
+    }
+}
