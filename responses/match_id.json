@@ -1,0 +1,111 @@
+{
+    "status": 200,
+    "data": {
+        "metadata": {
+            "created_at": 1659045764,
+            "completed_at": 1659045943,
+            "state": "complete",
+            "draw": false,
+            "map": "Trophy's E.D.G.E.",
+            "custom_match": false,
+            "cluster": "ec2-us-east-1-int",
+            "mode": "2v2"
+        },
+        "players": {
+            "0": [
+                {
+                    "id": "62e0545957a92175764c04fb",
+                    "username": "khaoot",
+                    "character": "Finn the Human",
+                    "damage": 208,
+                    "ringouts": 2,
+                    "deaths": 2,
+                    "platform": "PC",
+                    "team": 0
+                },
+                {
+                    "id": "62e1adf9bbba745989bedfde",
+                    "username": "HenrikZ3",
+                    "character": "Superman",
+                    "damage": 214,
+                    "ringouts": 0,
+                    "deaths": 2,
+                    "platform": "PC",
+                    "team": 0
+                }
+            ],
+            "1": [
+                {
+                    "id": "62e013b2d4a9b9ec5370106b",
+                    "username": "Ozenrol",
+                    "character": "Jake the Dog",
+                    "damage": 348,
+                    "ringouts": 2,
+                    "deaths": 1,
+                    "platform": "PC",
+                    "team": 1
+                },
+                {
+                    "id": "62d9e29fd8f69bb8f534c802",
+                    "username": "Matsuyda",
+                    "character": "Wonder Woman",
+                    "damage": 237,
+                    "ringouts": 2,
+                    "deaths": 1,
+                    "platform": "PC",
+                    "team": 1
+                }
+            ],
+            "all": [
+                {
+                    "id": "62e0545957a92175764c04fb",
+                    "username": "khaoot",
+                    "character": "Finn the Human",
+                    "damage": 208,
+                    "ringouts": 2,
+                    "deaths": 2,
+                    "platform": "PC",
+                    "team": 0
+                },
+                {
+                    "id": "62e1adf9bbba745989bedfde",
+                    "username": "HenrikZ3",
+                    "character": "Superman",
+                    "damage": 214,
+                    "ringouts": 0,
+                    "deaths": 2,
+                    "platform": "PC",
+                    "team": 0
+                },
+                {
+                    "id": "62e013b2d4a9b9ec5370106b",
+                    "username": "Ozenrol",
+                    "character": "Jake the Dog",
+                    "damage": 348,
+                    "ringouts": 2,
+                    "deaths": 1,
+                    "platform": "PC",
+                    "team": 1
+                },
+                {
+                    "id": "62d9e29fd8f69bb8f534c802",
+                    "username": "Matsuyda",
+                    "character": "Wonder Woman",
+                    "damage": 237,
+                    "ringouts": 2,
+                    "deaths": 1,
+                    "platform": "PC",
+                    "team": 1
+                }
+            ]
+        },
+        "teams": {
+            "0": {
+                "won": false
+            },
+            "1": {
+                "won": true
+            }
+        }
+    }
+}
