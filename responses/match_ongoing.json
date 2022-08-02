@@ -1,0 +1,69 @@
+{
+    "metadata": {
+        "created_at": 1659476101,
+        "completed_at": null,
+        "state": "open",
+        "draw": null,
+        "id": "62e99885a1efae88b9baa720",
+        "cluster": "ec2-us-east-1-int",
+        "mode": "2v2"
+    },
+    "players": {
+        "0": [],
+        "1": [],
+        "all": [
+            {
+                "id": "628bef5a1383e0182618b3c2",
+                "username": "Wonderboite",
+                "character": null,
+                "damage": 0,
+                "ringouts": 0,
+                "score": 0,
+                "deaths": 0,
+                "platform": null,
+                "team": null
+            },
+            {
+                "id": "628bf3767757cf3385cce8e1",
+                "username": "AzBerg",
+                "character": null,
+                "damage": 0,
+                "ringouts": 0,
+                "score": 0,
+                "deaths": 0,
+                "platform": null,
+                "team": null
+            },
+            {
+                "id": "62d709ca0440735ea1a2be16",
+                "username": "TootinScootin",
+                "character": null,
+                "damage": 0,
+                "ringouts": 0,
+                "score": 0,
+                "deaths": 0,
+                "platform": null,
+                "team": null
+            },
+            {
+                "id": "62d70db74db692a41e0ec8b9",
+                "username": "ChocolateBicBic",
+                "character": null,
+                "damage": 0,
+                "ringouts": 0,
+                "score": 0,
+                "deaths": 0,
+                "platform": null,
+                "team": null
+            }
+        ]
+    },
+    "teams": {
+        "0": {
+            "won": null
+        },
+        "1": {
+            "won": null
+        }
+    }
+}
